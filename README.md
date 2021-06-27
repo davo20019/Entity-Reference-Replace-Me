@@ -17,6 +17,7 @@ Entity reference fields
 Please use the [issue queue](https://www.drupal.org/project/issues/entityreference_replaceme) to report problems.
 
 1.- For now it has been tested/used with nodes only.
+
 2.- It is not using the batch API, so it may not work for a large number of entities.
 
 ##Credits
