@@ -1,0 +1,6 @@
+name: Entity Reference Replace Me
+type: module
+description: It allows replacing the reference to an entity with another entity of the same type.
+package: Field types
+core: 8.x
+core_version_requirement: ^8 || ^9

@@ -1,0 +1,10 @@
+entity.node.replaceme:
+  path: '/node/{node}/replaceme'
+  defaults:
+    _title: 'Replace All references of an entity'
+    _form: '\Drupal\entityreference_replaceme\Form\ReplaceMeForm'
+  requirements:
+    _permission: 'administer nodes'
+  options:
+    _node_operation_route: TRUE
+    _admin_route: TRUE

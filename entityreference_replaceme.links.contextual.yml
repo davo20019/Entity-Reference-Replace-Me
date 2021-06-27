@@ -1,0 +1,4 @@
+entity.node.replaceme:
+  route_name: entity.node.replaceme
+  group: node
+  title: 'Replace Me'

@@ -1,0 +1,5 @@
+entity.node.replaceme:
+  route_name: entity.node.replaceme
+  base_route: entity.node.canonical
+  title: 'Replace Me'
+  weight: 100
